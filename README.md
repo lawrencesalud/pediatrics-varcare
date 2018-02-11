@@ -1,5 +1,7 @@
 # pediatrics-varcare
 Data Mining of the Heritage Health Prize Data for Pediatric Healthcare
+
 Introduction
+
 This project is a variation of the $3M global Heritage Health Prize competition of 2012. I am using this data to discover and understand the factors associated with the variation of treatment of pediatric patients. This problem is of great interest to hospitals as more and more providers are looking to standardize on treatment of disease. This effort is not only of interest to the providers, it is also of great importance to patients. Standardization of care will show immense benefits including lowering medical cost, lowering hospital length of stay, and decreasing patient readmissions to the hospital.
 The original intent of this data had been to discover how to most accurately predict the number of days a patient will return to the hospital given a patient’s set of historical electronic medical records. I have acquired a semi-cleaned version of the data at the Git Hub Repository: https://github.com/jiunjiunma/heritage-health-prize (heritage-health- prize-master/modeling_set1.csv). The over 70.1 MB file is significantly reduced to focus on pediatric patients with a smaller set of related clinical conditions. I have defined an alternate goal for which this data had not been originally intended. My alternate goal is to discover and understand factors that are associated with variation in treatment of pediatric patients.
